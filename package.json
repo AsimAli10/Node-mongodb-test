@@ -1,0 +1,26 @@
+{
+  "name": "i190662_b_mongodbtask",
+  "version": "1.0.0",
+  "description": "\"This is Task to connect and explore MongoDB\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsimAli10/Node-mongodb-test.git"
+  },
+  "author": "Asim Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AsimAli10/Node-mongodb-test/issues"
+  },
+  "homepage": "https://github.com/AsimAli10/Node-mongodb-test#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "mongodb": "^5.1.0",
+    "mongoose": "^7.0.3",
+    "mongose": "^0.0.2-security"
+  }
+}
