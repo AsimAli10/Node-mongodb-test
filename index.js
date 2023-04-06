@@ -1,7 +1,7 @@
  
  const mongoose = require('mongoose');
 
-const uri = "mongodb+srv://admin:admin@cluster0.syr8fbt.mongodb.net/?retryWrites=true&w=majority";
+const uri = "";//your mongodb cluster url aur lcoalhost
 const express = require('express');
 const app = express();
 const port = 3000;
